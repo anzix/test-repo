@@ -15,4 +15,4 @@ md5sums=("9aac8a6ce3de074dc69020b091a6b24b")
 package() {
   install -Dm0755 "$pkgname-$pkgver" "$pkgdir/usr/bin/iso2god"
 }
-# bla bla
+# bla
