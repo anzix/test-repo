@@ -16,3 +16,4 @@ package() {
   install -Dm0755 "$pkgname-$pkgver" "$pkgdir/usr/bin/iso2god"
 }
 # bla bla
+# test
